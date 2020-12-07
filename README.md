@@ -1,0 +1,1 @@
+This is a project of quiz app made by Shoaib Tahir using React Typescript. It is deployed using Netlify
